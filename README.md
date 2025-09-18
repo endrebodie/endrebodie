@@ -4,7 +4,7 @@ I'm a self-taught dev with a focus on **React**. On the backend, I mostly work w
 
 ### Some of My Projects
 
-### [brzefakturenetlify.app](https://brzefakture.netlify.app)
+### [brzefakture.netlify.app](https://brzefakture.netlify.app)
 An e-invoicing app built for Serbia’s eFakture system, designed for small businesses that need a simple and efficient way to view and approve invoices.
 
 ### [ocistimosrbiju.netlify.app](https://ocistimosrbiju.netlify.app)
