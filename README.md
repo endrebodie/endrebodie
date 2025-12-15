@@ -1,6 +1,6 @@
 # Hi, I'm Endre 👋
 
-I'm a self-taught dev with a focus on **React**. On the backend, I mostly work with **Node.js**, **PocketBase**, and **Python**, feel free to reach out.
+I'm a self-taught dev with a focus on **React**. On the backend, I mostly work with **Node.js**, **PocketBase**, and **Python**. Feel free to reach out.
 
 ### Some of My Projects
 
