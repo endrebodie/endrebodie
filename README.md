@@ -1,6 +1,6 @@
 # Hi, I'm Endre 👋
 
-I'm a self-taught dev with a focus on **React**. On the backend, I mostly work with **Node.js**, **PocketBase**, and **Python**.
+I'm a self-taught dev with a focus on **React**. On the backend, I mostly work with **Node.js**, **PocketBase**, and **Python**, feel free to reach out.
 
 ### Some of My Projects
 
@@ -14,8 +14,5 @@ A platform for mapping legal and illegal landfills across Serbia. Built to raise
 A minimalistic inventory app with nested boxes and item tracking.
 
 ### [4bikers.netlify.app](https://4bikers.netlify.app)
-A social platform for organizing group motorcycle rides and connecting with people met along the way.
-
-### Let's Connect
-
-Feel free to reach out!
+First imagined as a social platform for organizing group motorcycle rides and connecting with people met along the way,
+now converted to a map of riders registered on the BJBikers forum.
